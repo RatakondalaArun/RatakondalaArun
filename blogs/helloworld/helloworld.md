@@ -33,3 +33,21 @@ class FooBar{
   }
 }
 ```
+
+If your are seeing colors in the code then it is working
+
+**Bold sentence**
+
+- [ ] some checkboxes in unchecked state.
+- [x] some checkbox in checked state
+
+<details>
+  <summary>Open this</summary>
+  
+  # Tada🎉
+  
+  ![tada](https://user-images.githubusercontent.com/47482264/122646622-b3854d00-d13d-11eb-953e-35b4374c03a8.gif)
+  
+  This image loads from github
+</details>
+
