@@ -7,8 +7,8 @@
 Hi, I'm Ratakondala Arun, a passionate self-taught flutter developer from India.
 I spend most of my time building 🔧 awesome things.
 
-* 🔭I'm currently working on Hyperledger Fabric
-* 🌱I'm currently learning Hyperledger fabric
+* 🔭I'm currently working on flutter
+* 🌱I'm currently learning flutter
 * 👯‍♀️I'm looking to collaborate on [tmdb_api](https://github.com/RatakondalaArun/tmdb_api)
 * ❔Ask me about anything [here](https://github.com/RatakondalaArun/RatakondalaArun/issues)
 
