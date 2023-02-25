@@ -1,6 +1,6 @@
 # Hi! I'm Ratakondala Arun
 
-[![Github](assets/mail.png)](mailto:ratakondalaarun@gmail.com)
+[![Github](assets/mail.png)](mailto:hi@ratakondalaarun.com)
 [![Github](assets/github.png)](https://github.com/RatakondalaArun)
 [![twitter](assets/twitter.png)](https://twitter.com/RatakondalaArun)
 
